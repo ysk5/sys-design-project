@@ -3,7 +3,7 @@ youtube -> mp3 converter built using a microservices architecture
 
 tech used: python, docker, kubernetes, mongodb, mysql, rabbitmq, 
 
-tech to be utilized: kurtosis, aws
+to be incorporated: kurtosis, AWS
 
 docker hub: https://hub.docker.com/u/ysk5
 
